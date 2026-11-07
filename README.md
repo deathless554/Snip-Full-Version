@@ -240,4 +240,4 @@ This repository serves as the official landing page for Snip. The software is di
 **Get the most recent version of Snip today!**
 
 ---
-**Last updated:** 2026-11-06 21:18:01 UTC
+**Last updated:** 2026-11-07 01:39:14 UTC
